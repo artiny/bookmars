@@ -1,0 +1,595 @@
+{
+    "bookmarks": [
+        {
+            "article__excerpt": null,
+            "favorite": false,
+            "date_archived": "2016-05-11T09:36:33",
+            "article__url": "https://ipv4.google.com/sorry/IndexRedirect?continue=https://www.youtube.com/watch%3Fv%3D7V6nu3eIvRA&q=CGMSBDbG1CMYoPrLuQUiGQDxp4NL8HDXwYw0YuIvNO5uQxZNLUafx7k",
+            "date_added": "2016-05-11T09:36:33",
+            "date_favorited": null,
+            "article__title": "https://ipv4.google.com/sorry/IndexRedirect?continue=https://www.youtube.com/watch%3Fv%3D7V6nu3eIvRA&q=CGMSBDbG1CMYoPrLuQUiGQDxp4NL8HDXwYw0YuIvNO5uQxZNLUafx7k",
+            "archive": true
+        },
+        {
+            "article__excerpt": "This project is deprecated and no longer maintained. The contents were moved to another library, which is available here: https://github.com/ntoskrnl/AndroidWidgets Simple speedometer-like gauge with&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "https://github.com/ntoskrnl/SpeedometerView",
+            "date_added": "2016-05-09T21:41:45",
+            "date_favorited": null,
+            "article__title": "ntoskrnl/SpeedometerView",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Very often, Android applications are connected to backend services and consume REST services to get data. When you think to that kind of apps, you can imagine an application that displays weather to&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.ssaurel.com/blog/make-your-rest-client-easy-in-android-with-retrofit/",
+            "date_added": "2016-05-09T21:41:37",
+            "date_favorited": null,
+            "article__title": "Make your REST client easily in Android with Retrofit",
+            "archive": false
+        },
+        {
+            "article__excerpt": "It's a simple light meter Using Android device build-in light sensor. A ProgressBar is defined in main.xml as a indicator of the light sensor. The default value of 100 defined in android:max is a&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://androidmaterial.blogspot.sk/2012/08/using-android-device-build-in-light.html",
+            "date_added": "2016-05-09T21:41:34",
+            "date_favorited": null,
+            "article__title": "Using Android device build-in light sensor in Android",
+            "archive": false
+        },
+        {
+            "article__excerpt": "In this android example we learn how to access Light sensor if&#xA0;present&#xA0;in android devise.many mobile having Auto&#xA0;brightness&#xA0;mode function, this function work on light sensor that&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://androidapplink.blogspot.sk/2015/06/measure-light-intensity-in-android.html",
+            "date_added": "2016-05-09T21:41:30",
+            "date_favorited": null,
+            "article__title": "Measure Light intensity in android | Light sensor in android",
+            "archive": false
+        },
+        {
+            "article__excerpt": "For a horizontal style ProgressBar I use: import android.widget.ProgressBar; import android.graphics.drawable.GradientDrawable; import android.graphics.drawable.ClipDrawable; import&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.simosh.com/article/cacaiic-how-to-change-progress-bars-progress-color-in-android.html",
+            "date_added": "2016-05-09T21:41:26",
+            "date_favorited": null,
+            "article__title": "How to change progress bar's progress color in Android",
+            "archive": false
+        },
+        {
+            "article__excerpt": "&#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; Vibrating Android device is found effective when you wanted to get notified on the incoming connection in various cases like, user cannot hear a&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.compiletimeerror.com/2013/11/vibrate-android-device-with-example.html#.VzED7fmLSCp",
+            "date_added": "2016-05-09T21:41:19",
+            "date_favorited": null,
+            "article__title": "Vibrate Android device Example",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Mobile Apps Stats and Trends Mobile apps are reaching to every pocket rapidly. Since 2009 we have noticed that mobile Apps are increasing consistently and you will find a mobile app for almost every&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://programmerguru.com/android-tutorial/",
+            "date_added": "2016-05-09T21:41:14",
+            "date_favorited": null,
+            "article__title": "Android Tutorial Blog",
+            "archive": false
+        },
+        {
+            "article__excerpt": "",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://tech-lightenment.blogspot.sk/2012/05/implementing-motion-detection-using.html",
+            "date_added": "2016-05-07T16:08:38",
+            "date_favorited": null,
+            "article__title": "OpenCV: Implementing Motion Detection using Motion Templates",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Trying to briefly summarize the description from the \"Learning OpenCV\" The motion templates records location of blobs at each time-stamp. It estimates the direction of one(local, segmented) or more&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://experienceopencv.blogspot.sk/2011/02/motion-templates.html",
+            "date_added": "2016-05-07T16:06:09",
+            "date_favorited": null,
+            "article__title": "Motion Templates",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Permalink Fetching contributors&#x2026; Cannot retrieve contributors at this time //objectTrackingTutorial.cpp",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "https://github.com/villiOS/trackingObject/blob/master/tracking.txt",
+            "date_added": "2016-05-07T06:14:29",
+            "date_favorited": null,
+            "article__title": "villiOS/trackingObject",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Code covered by the BSD License \u00a0 Download apps, toolboxes, and other File Exchange content using Add-On Explorer in MATLAB. \u00bb Watch video Highlights from Col",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.mathworks.com/matlabcentral/fileexchange/52790-color-object-tracking?s_tid=srchtitle",
+            "date_added": "2016-05-05T08:24:45",
+            "date_favorited": null,
+            "article__title": "Color Object Tracking - File Exchange - MATLAB Central",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Code covered by the BSD License \u00a0 Download apps, toolboxes, and other File Exchange content using Add-On Explorer in MATLAB. \u00bb Watch video Highlights from",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.mathworks.com/matlabcentral/fileexchange/52583-incremental-discriminative-color-object-tracker--idct-tracker-",
+            "date_added": "2016-05-05T08:24:40",
+            "date_favorited": null,
+            "article__title": "Incremental Discriminative Color Object Tracker (IDCT Tracker) - File Exchange - MATLAB Central",
+            "archive": false
+        },
+        {
+            "article__excerpt": "hy i would like to start working with image processing toolbox, but I cant install the winvideo driver for my Acer s3 391 built in webcam. {I tried also my old usb web cams, but in the windows 10&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.mathworks.com/matlabcentral/answers/282669-i-cant-find-web-cam-winvideo-driver-for-my-laptop-acer-s3?requestedDomain=www.mathworks.com&nocookie=true",
+            "date_added": "2016-05-05T07:54:27",
+            "date_favorited": null,
+            "article__title": "Select Your Country",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Original blog illustration by Benedicte&#xA0;Rossi Matlab is not&#xA0;traditionally&#xA0;used to do real-time analysis. Usually one goes to Labview when it comes to this. But still Matlab and Labview&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.matlabtips.com/realtime-processing/",
+            "date_added": "2016-05-04T21:17:57",
+            "date_favorited": null,
+            "article__title": "Real-time processing in Matlab",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Download source code http://www.stargravity.com/file/0/73.html Measure distance with web cams from depth map using OpenCV full source code Distance among two...",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "https://www.youtube.com/watch?v=cX3eUwHunZM",
+            "date_added": "2016-05-04T18:32:34",
+            "date_favorited": null,
+            "article__title": "Measure distance with web cams from depth map using OpenCV full source code",
+            "archive": false
+        },
+        {
+            "article__excerpt": "I'm trying to create Stereo Vision using 2 logitech C310 webcams. But the result is not good enough. One of the videos is lagging as compared to the other one. Here is my openCV program using VC++&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://stackoverflow.com/questions/21592371/video-from-2-cameras-for-stereo-vision-using-opencv-but-one-of-them-is-laggin",
+            "date_added": "2016-05-04T18:22:05",
+            "date_favorited": null,
+            "article__title": "Video from 2 cameras (for Stereo Vision) using OpenCV, but one of them is lagging",
+            "archive": false
+        },
+        {
+            "article__excerpt": "#include &lt;unistd.h&gt;#include &lt;string.h&gt;#include &lt;stdio.h&gt;#include &lt;fcntl.h&gt;class LinuxFile {private: &#xA0;&#xA0;&#xA0; int m_Handle;public: &#xA0;&#xA0;&#xA0; LinuxFile(const&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://visualgdb.com/tutorials/raspberry/LED/",
+            "date_added": "2016-03-30T03:56:21",
+            "date_favorited": null,
+            "article__title": "Creating a \"Blinking LED\" project for Raspberry PI",
+            "archive": false
+        },
+        {
+            "article__excerpt": "raspberry pi led blinking using c programming and wiringPi raspberry pi wiringpi tutorial raspberry pi wiringpi example raspberry pi wiringpi install",
+            "favorite": false,
+            "date_archived": "2016-03-29T20:09:59",
+            "article__url": "https://www.youtube.com/watch?v=Gw-LdBWKxmM&feature=iv&src_vid=SOXwT2ge_pw&annotation_id=annotation_242676389",
+            "date_added": "2016-03-29T20:09:59",
+            "date_favorited": null,
+            "article__title": "Raspberry Pi led blinking using c programming and wiringpi",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Hardware, software, and the user are melding in ways previously thought to be the stuff of science fiction. Hardware like touch screens, gyroscopes, and accelerometers is enabling software to detect&hellip;",
+            "favorite": false,
+            "date_archived": "2016-03-22T14:10:22",
+            "article__url": "http://www.techrepublic.com/blog/software-engineer/a-quick-tutorial-on-coding-androids-accelerometer/",
+            "date_added": "2016-03-22T14:10:22",
+            "date_favorited": null,
+            "article__title": "A quick tutorial on coding Android's accelerometer",
+            "archive": true
+        },
+        {
+            "article__excerpt": "To add to Savlons answer: There are two ways of doing this Vector2D objects(Assuming your positions are vectors): Vector2D diffVec(B.posVec-A.posVec); diffVec.normlize(); //Assuming it's applied on&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://gamedev.stackexchange.com/questions/48119/how-do-i-calculate-how-an-object-will-move-from-one-point-to-another",
+            "date_added": "2016-03-16T13:03:57",
+            "date_favorited": null,
+            "article__title": "How do I calculate how an object will move from one point to another?",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Git - Basic Concepts Version Control System Version Control System (VCS) is a software that helps software developers to work together and maintain a complete history of their work. Listed below are&hellip;",
+            "favorite": false,
+            "date_archived": "2016-03-09T06:41:33",
+            "article__url": "http://www.tutorialspoint.com/git/git_quick_guide.htm",
+            "date_added": "2016-03-09T06:41:33",
+            "date_favorited": null,
+            "article__title": "Git - Quick Guide",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Copyright &#xA9; 2011, 2012 Lars Vogel Revision History Revision 0.1 05.01.2011",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.vogella.com/tutorials/AndroidSensor/article.html",
+            "date_added": "2016-03-08T14:49:42",
+            "date_favorited": null,
+            "article__title": "Android Sensor - Tutorial",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Projekt v syst&#xE9;mu Git lze z&#xED;skat dv&#x11B;ma z&#xE1;kladn&#xED;mi zp&#x16F;soby. Prvn&#xED; zp&#x16F;sob spo&#x10D;&#xED;v&#xE1; v tom, &#x17E;e vezmeme existuj&#xED;c&#xED; projekt nebo&hellip;",
+            "favorite": false,
+            "date_archived": "2016-03-05T16:42:58",
+            "article__url": "https://git-scm.com/book/cs/v1/Z%C3%A1klady-pr%C3%A1ce-se-syst%C3%A9mem-Git-Z%C3%ADsk%C3%A1n%C3%AD-repozit%C3%A1%C5%99e-Git",
+            "date_added": "2016-03-05T16:42:58",
+            "date_favorited": null,
+            "article__title": "2.1 Z\u00e1klady pr\u00e1ce se syst\u00e9mem Git - Z\u00edsk\u00e1n\u00ed repozit\u00e1\u0159e Git",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Supplier javad naderizadeh www.opencv.ir/forum visual studio\u062f\u06312008 Open CV2.1.0 \u0622\u0645\u0648\u0632\u0634 \u0646\u0635\u0628",
+            "favorite": false,
+            "date_archived": "2016-02-24T15:09:48",
+            "article__url": "https://www.youtube.com/watch?v=K8SyO72Kx-k",
+            "date_added": "2016-02-24T15:09:48",
+            "date_favorited": null,
+            "article__title": "Installing OpenCV 2 1 0 with Visual Studio 2008 and configuring OpenCV project",
+            "archive": true
+        },
+        {
+            "article__excerpt": "One of the most frequent questions raised when discussing the Internet of Things (IoT) is: &#x201C;what are the real benefits?&#x201D; Benefits may come in many forms, but professionals tend to find&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://blog.lnsresearch.com/blog/bid/202987/The-IoT-is-Returning-Tangible-Benefits-in-Industrial-Energy-Management",
+            "date_added": "2016-02-21T13:38:22",
+            "date_favorited": null,
+            "article__title": "The IoT is Returning Tangible Benefits in Industrial Energy Management",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Jednou z najfrekventovanej&#x161;&#xED;ch ot&#xE1;zok v diskusi&#xE1;ch na t&#xE9;mu internet vec&#xED; je: &#x201E;Ak&#xE9; s&#xFA; jeho re&#xE1;lne pr&#xED;nosy?&#x201C; Pr&#xED;nosy sa&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.atpjournal.sk/novetrendy/internet-veci-predstavuje-vyznamne-prinosy-v-riadeni-spotreby-energii-v-priemysle.html?page_id=20478",
+            "date_added": "2016-02-21T13:38:03",
+            "date_favorited": null,
+            "article__title": "Internet vec\u00ed predstavuje v\u00fdznamn\u00e9 pr\u00ednosy v riaden\u00ed spotreby energi\u00ed v priemysle",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Zahrani&#x10D;n&#xE9; i dom&#xE1;ce sk&#xFA;senosti a inovat&#xED;vne koncepty v oblasti rozvoja miest predstavili 20. marca predn&#xE1;&#x161;aj&#xFA;ci odbornej konferencie Smart Cities na&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.atpjournal.sk/budovy/rubriky/kratke-spravy/bratislava-chce-byt-chytrym-mestom.html?page_id=19221",
+            "date_added": "2016-02-21T13:37:46",
+            "date_favorited": null,
+            "article__title": "Bratislava chce by\u0165 chytr\u00fdm mestom",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Ha tetszett like \u00e9s iratkozz fel, k\u00f6szi(:",
+            "favorite": false,
+            "date_archived": "2016-02-21T09:57:48",
+            "article__url": "https://www.youtube.com/watch?v=9s9pAaBgo78&index=42&list=PLuYHIg_0xQJuGfFx6AxtMgNwoOpZlv7z0",
+            "date_added": "2016-02-21T09:57:48",
+            "date_favorited": null,
+            "article__title": "c++ Kezd\u0151knek #42 - Oszt\u00e1lyok \u00e9s Objektumok",
+            "archive": true
+        },
+        {
+            "article__excerpt": "http://www.takaritaskartevoirtas.hu Legyen t\u00e1nc meg z\u00e1rcs\u00f6kkent\u00e9s! - nincs t\u00fal sok elv\u00e1r\u00e1sa annak a k\u00e9t f\u00fczesabonyi lakosnak, akiket a v\u00e1rosi telev\u00edzi\u00f3 az \u00f6n...",
+            "favorite": false,
+            "date_archived": "2016-02-21T08:30:58",
+            "article__url": "https://www.youtube.com/watch?v=Boa7_tO4bV4",
+            "date_added": "2016-02-21T08:30:58",
+            "date_favorited": null,
+            "article__title": "\u00daj Szalacsi \u00e9s Bikicsun\u00e1j sz\u00fcletett a v\u00e1laszt\u00e1s napj\u00e1n. Legyen t\u00e1nc. Legyen z\u00e1rcs\u00f6kkent\u00e9s...",
+            "archive": true
+        },
+        {
+            "article__excerpt": "VK &gt; E-noviny 2015 &gt; 10/2015 &gt; SMART CITY 360 v Bratislave aj v Toronte 02. 10. 2015 &#x201E;Expl&#xF3;zia inov&#xE1;ci&#xED; a ich prenos do praxe&#x201C; je hlavn&#xE9; motto summitu SMART&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://vedeckykaleidoskop.cvtisr.sk/e-noviny-2015/10-2015/smart-city-360-v-bratislave-aj-v-toronte.html?page_id=5506",
+            "date_added": "2016-02-19T06:37:44",
+            "date_favorited": null,
+            "article__title": "SMART CITY 360 v Bratislave aj v Toronte",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Liz: Here&#x2019;s a guest post from Bernat&#xA0;at Wolfram, who has&#xA0;been putting the Wolfram Language on the Pi to work at a Smart Cities Hackathon in Barcelona. If you haven&#x2019;t used the&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-17T21:07:48",
+            "article__url": "https://www.raspberrypi.org/blog/a-smart-programming-language-for-a-smart-cities-hackathon/",
+            "date_added": "2016-02-17T21:11:01",
+            "date_favorited": null,
+            "article__title": "A Smart Programming Language for a Smart Cities Hackathon",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Difficulty Level: Beginner - Libelium has added a Sigfox wireless module to its portfolio of Waspmote OEM and Plug &amp; Sense! sensor devices and at the same time has make it available for the main&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-17T20:57:44",
+            "article__url": "https://www.cooking-hacks.com/documentation/tutorials/sigfox-connectivity-arduino-raspberry-pi-868mhz-europe-900mhz-us/",
+            "date_added": "2016-02-17T21:04:00",
+            "date_favorited": null,
+            "article__title": "Sigfox Ready Technology for Arduino, Waspmote and Raspberry Pi",
+            "archive": true
+        },
+        {
+            "article__excerpt": "MQ Telemetry Transport (MQTT) je jednoduch&#xFD; centralizovan&#xFD; protokol slou&#x17E;&#xED;c&#xED; zpravidla pro pou&#x17E;it&#xED; s nejr&#x16F;zn&#x11B;j&#x161;&#xED;mi senzory. Lze jej&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-16T12:08:30",
+            "article__url": "http://blog.brichacek.net/vyuziti-protokolu-mqtt-nejen-pro-m2m-a-iot/",
+            "date_added": "2016-02-16T12:08:30",
+            "date_favorited": null,
+            "article__title": "Vyu\u017eit\u00ed protokolu MQTT nejen pro M2M a IoT",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Inteligentn&#xE9; mest&#xE1; - Enviroport&#xE1;l - &#x17E;ivotn&#xE9; prostredie onlinehttps://www.enviroportal.sk/...temy/...o-zp/.../inteligentne-mesta",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "https://www.google.sk/search?q=inteligentn%C3%A9+mest%C3%A1&oq=inteligentn%C3%A9+mest%C3%A1&aqs=chrome..69i57&sourceid=chrome&es_sm=122&ie=UTF-8",
+            "date_added": "2016-02-15T20:35:33",
+            "date_favorited": null,
+            "article__title": "inteligentn\u00e9 mest\u00e1 - H\u013eada\u0165 Googlom",
+            "archive": false
+        },
+        {
+            "article__excerpt": "M2M rie&#x161;enia - Telekomhttps://www.telekom.sk/biznis/m2m-rieseniaV pam&#xE4;tiMachine-to-machine (M2M) predstavuje obojsmern&#xFA; komunik&#xE1;ciu medzi najrozli&#x10D;nej&#x161;&#xED;mi&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "https://www.google.sk/search?q=M2M+zariadeniami&oq=M2M+zariadeniami&aqs=chrome..69i57&sourceid=chrome&es_sm=122&ie=UTF-8",
+            "date_added": "2016-02-15T20:35:27",
+            "date_favorited": null,
+            "article__title": "M2M zariadeniami - H\u013eada\u0165 Googlom",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Ostatn&#xED; / M2M / Gigaset Security / Senzory | Wi-fiwww.wifi-shop.cz/ostatni-m2m-gigaset-security-senzory_c14907784.htmlGigaset Elements je nov&#xE9; &#x159;e&#x161;en&#xED; vzd&#xE1;len&#xE9;ho&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "https://www.google.sk/search?q=M2M+senzory&oq=M2M+senzory&aqs=chrome..69i57&sourceid=chrome&es_sm=122&ie=UTF-8",
+            "date_added": "2016-02-15T20:35:20",
+            "date_favorited": null,
+            "article__title": "M2M senzory - H\u013eada\u0165 Googlom",
+            "archive": false
+        },
+        {
+            "article__excerpt": "V mest&#xE1;ch &#x17E;ilo v roku 1900 iba 13% svetovej popul&#xE1;cie. V roku 2050 to bude a&#x17E; 70%. Na povrchu Zeme ka&#x17E;d&#xFD; rok \"pribudne\" sedem New Yorkov. T&#xE1;to&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T20:26:20",
+            "article__url": "http://www-05.ibm.com/sk/smarterplanet/opinions/opinion_20090309.shtml",
+            "date_added": "2016-02-15T20:26:20",
+            "date_favorited": null,
+            "article__title": "Inteligentn\u00e9 mest\u00e1",
+            "archive": true
+        },
+        {
+            "article__excerpt": "&amp;nbsp Autor: Iveta Keselakova, 15. j\u00fala 2010 14:57, aktualizovan\u00e9: 15. j\u00fala 2010 14:57 Diskusia (0)",
+            "favorite": false,
+            "date_archived": "2016-02-15T20:14:44",
+            "article__url": "http://www.webnoviny.sk/slovensko/inteligentne-mesta-zlepsuju-kvalitu/183093-clanok.html",
+            "date_added": "2016-02-15T20:14:44",
+            "date_favorited": null,
+            "article__title": "Inteligentn\u00e9 mest\u00e1 zlep\u0161uj\u00fa kvalitu \u017eivota",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Eur&#xF3;pska komisia sa rozhodla v&#xA0;roku 2013 podpori&#x165; sumou 365 mili&#xF3;nov eur rozvoj inteligentn&#xFD;ch a&#xA0;udr&#x17E;ate&#x13E;n&#xFD;ch technol&#xF3;gi&#xED; v&#xA0;mest&#xE1;ch&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T20:04:37",
+            "article__url": "http://euractiv.sk/energetika/brusel-podpori-inteligentne-mesta-1-milionom-eur-denne-019622/",
+            "date_added": "2016-02-15T20:04:37",
+            "date_favorited": null,
+            "article__title": "Brusel podpor\u00ed inteligentn\u00e9 mest\u00e1 mili\u00f3nom eur denne",
+            "archive": true
+        },
+        {
+            "article__excerpt": "SmartCities &#x2013; rezonuje aj u&#xA0;n&#xE1;s na Slovensku &#x10D;oraz &#x10D;astej&#x161;ie. &#x10C;o si m&#xE1; &#x10D;lovek predstavi&#x165;? Doslovn&#xFD; preklad znamen&#xE1;&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T19:54:15",
+            "article__url": "http://www.h2020.sk/index.php/blog/40-slovenske-smartcities",
+            "date_added": "2016-02-15T19:54:15",
+            "date_favorited": null,
+            "article__title": "BLOG: Slovensk\u00e9 SmartCities",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Oblas&#x165; Secure, Clean and Efficient EnergySmart, Green and Integrated Transport Predstavenie v&#xED;&#x165;azov prvej v&#xFD;zvy Horizontu 2020 Smart Cities \"Lighthouse call\". Tone Grinland&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T19:46:07",
+            "article__url": "http://slord.sk/sk/aktuality/inteligentne-mesta-buducnosti.html?page_id=2139",
+            "date_added": "2016-02-15T19:46:07",
+            "date_favorited": null,
+            "article__title": "Inteligentn\u00e9 mest\u00e1 bud\u00facnosti",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Inteligentn&#xE9; mest&#xE1; (Smart Cities) pomocou pokrokov&#xFD;ch digit&#xE1;lnych technol&#xF3;gi&#xED; chr&#xE1;nia &#x17E;ivotn&#xE9; prostredie a menia &#x17E;ivot svojich ob&#x10D;anov k&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T19:29:01",
+            "article__url": "http://www.nadaciapontis.sk/clanok/udrzatelna-buducnost-potrebuje-inteligentne-mesta/1565",
+            "date_added": "2016-02-15T19:29:01",
+            "date_favorited": null,
+            "article__title": "Udr\u017eate\u013en\u00e1 bud\u00facnos\u0165 potrebuje inteligentn\u00e9 mest\u00e1",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Inteligentn&#xE9; mest&#xE1; (Smart Cities) vytv&#xE1;raj&#xFA; pl&#xE1;ny pre bud&#xFA;ce invest&#xED;cie za pomoci informa&#x10D;n&#xFD;ch technol&#xF3;gi&#xED; s&#xA0;&#xFA;&#x10D;as&#x165;ou&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T19:26:31",
+            "article__url": "https://www.enviroportal.sk/environmentalne-temy/starostlivost-o-zp/mestske-zp/dokumenty/inteligentne-mesta",
+            "date_added": "2016-02-15T19:26:31",
+            "date_favorited": null,
+            "article__title": "Inteligentn\u00e9 mest\u00e1",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Algoritmus firmy Mio sa operia o rozsiahlu zdravotn&#xFA; &#x161;t&#xFA;diu. Inteligentn&#xFD; n&#xE1;ramok Mio Slice vyzer&#xE1; na prv&#xFD; poh&#x13E;ad ako v&#xE4;&#x10D;&#x161;ina podobn&#xFD;ch&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T19:16:56",
+            "article__url": "http://www.zive.sk/clanok/111307/inteligentny-naramok-mio-slice-nam-vraj-pomoze-predlzit-zivot-o-10-rokov",
+            "date_added": "2016-02-15T19:16:56",
+            "date_favorited": null,
+            "article__title": "Inteligentn\u00fd n\u00e1ramok Mio Slice n\u00e1m vraj pom\u00f4\u017ee pred\u013a\u017ei\u0165 \u017eivot o 10 rokov",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Nosite&#x13E;n&#xE9; zariadenie pom&#xE1;ha bez ved&#x13E;aj&#x161;&#xED;ch &#xFA;&#x10D;inkov. Spolo&#x10D;nos&#x165; ReliefBand Technologies predstavila na ve&#x13E;trhu spotrebnej elektroniky CES&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T19:13:54",
+            "article__url": "http://www.zive.sk/clanok/111312/elektronicky-naramok-zbavuje-nevolnosti",
+            "date_added": "2016-02-15T19:13:54",
+            "date_favorited": null,
+            "article__title": "Elektronick\u00fd n\u00e1ramok zbavuje nevo\u013enosti",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Hodinky zasielaj&#xFA; &#xFA;daje o polohe, umo&#x17E;&#x148;uj&#xFA; videohovory a monitoruj&#xFA; pohybov&#xFA; aktivitu. Pre rodi&#x10D;ov, ktor&#xED; chc&#xFA; ma&#x165; svoje deti &#x10D;o&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T19:01:18",
+            "article__url": "http://www.zive.sk/clanok/111405/su-deti-v-poriadku-odpovedia-detske-inteligentne-hodinky",
+            "date_added": "2016-02-15T19:01:18",
+            "date_favorited": null,
+            "article__title": "S\u00fa deti v poriadku? Odpovedia detsk\u00e9 inteligentn\u00e9 hodinky",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Virtu&#xE1;lna realita, nosite&#x13E;n&#xE9; zariadenia, drony aj r&#xF4;znorod&#xE9; tablety &#x10D;i notebooky. Consumer Electronics Show 2016 je &#xFA;spe&#x161;ne za nami. Jeden&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T18:43:03",
+            "article__url": "http://www.zive.sk/clanok/111502/tieto-technologie-ovladnu-svet-vybrali-sme-najvacsie-novinky",
+            "date_added": "2016-02-15T18:43:03",
+            "date_favorited": null,
+            "article__title": "Tieto technol\u00f3gie ovl\u00e1dnu svet, vybrali sme najv\u00e4\u010d\u0161ie novinky",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Spolo&#x10D;nos&#x165; MasterCard v spolupr&#xE1;ci s Cubic Transportation Systems predstavila nov&#xFA; platformu zameran&#xFA; na efekt&#xED;vny rozvoj mestskej infra&#x161;trukt&#xFA;ry. Tento&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T18:13:08",
+            "article__url": "http://www.zive.sk/clanok/108567/mastercard-a-cubic-transportation-systems-pomahaju-k-efektivnemu-rozvoju-miest",
+            "date_added": "2016-02-15T18:13:08",
+            "date_favorited": null,
+            "article__title": "MasterCard a Cubic Transportation Systems pom\u00e1haj\u00fa\nk efekt\u00edvnemu rozvoju miest",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Viac ako &#x161;tyri roky pom&#xE1;ha IBM mest&#xE1;m zlep&#x161;ova&#x165; poskytovan&#xE9; slu&#x17E;by, a aj tento rok vyz&#xFD;va prostredn&#xED;ctvom IBM Smarter Cities Challenge mesk&#xE9;&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T17:31:20",
+            "article__url": "http://www.zive.sk/clanok/101708/ibm-opat-otvorila-grantovy-program-pre-mesta-a-regiony",
+            "date_added": "2016-02-15T17:31:20",
+            "date_favorited": null,
+            "article__title": "IBM op\u00e4\u0165 otvorila grantov\u00fd program pre mest\u00e1 a regi\u00f3ny",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Spole&#x10D;nosti Cisco a Toshiba hledaj&#xED; nov&#xE9; cesty, jak p&#x159;en&#xE9;st koncept Internet of Everything do ka&#x17E;dodenn&#xED;ho &#x17E;ivota. Spolupr&#xE1;ce byla&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T17:23:12",
+            "article__url": "http://www.zive.sk/clanok/100803/cisco-a-toshiba-chteji-spolecne-zlepsit-zivotni-prostredi-i-kazdodenni-zivot",
+            "date_added": "2016-02-15T17:23:12",
+            "date_favorited": null,
+            "article__title": "Cisco a Toshiba cht\u011bj\u00ed spole\u010dn\u011b zlep\u0161it \u017eivotn\u00ed prost\u0159ed\u00ed i ka\u017edodenn\u00ed \u017eivot",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Americk&#xE9; mesto Minneapolis vyu&#x17E;&#xED;va IBM (NYSE: IBM) Smarter Cities technol&#xF3;gie na modern&#xE9; vyhodnocovanie a anal&#xFD;zu v&#x161;etk&#xFD;ch dostupn&#xFD;ch d&#xE1;t&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T17:09:21",
+            "article__url": "http://www.zive.sk/clanok/96562/americky-minneapolis-vyuziva-ibm-smarter-cities-technologie",
+            "date_added": "2016-02-15T17:09:21",
+            "date_favorited": null,
+            "article__title": "Americk\u00fd Minneapolis vyu\u017e\u00edva IBM Smarter Cities technol\u00f3gie",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Spolo&#x10D;nos&#x165; IBM (NYSE: IBM) je pod&#x13E;a najnov&#x161;ieho rebr&#xED;&#x10D;ku prieskumnej spolo&#x10D;nosti Navigant Research celosvetovou jednotkou na trhu dod&#xE1;vate&#x13E;ov&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T16:59:55",
+            "article__url": "http://www.zive.sk/clanok/67453/ibm-jednotkou-v-rieseniach-pre-inteligentne-mesta",
+            "date_added": "2016-02-15T16:59:55",
+            "date_favorited": null,
+            "article__title": "IBM jednotkou v rie\u0161eniach pre inteligentn\u00e9 mest\u00e1",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Spolo&#x10D;nos&#x165; IBM (NYSE: IBM) predstavila op&#xE4;&#x165; zoznam inov&#xE1;ci&#xED;, ktor&#xE9; maj&#xFA; potenci&#xE1;l zmeni&#x165; n&#xE1;&#x161; pracovn&#xFD; a s&#xFA;kromn&#xFD;&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T14:03:47",
+            "article__url": "http://www.zive.sk/clanok/71033/ibm-odkryva-pat-inovacii-ktore-zmenia-nas-zivot",
+            "date_added": "2016-02-15T16:57:40",
+            "date_favorited": null,
+            "article__title": "IBM odkr\u00fdva p\u00e4\u0165 inov\u00e1ci\u00ed, ktor\u00e9 zmenia n\u00e1\u0161 \u017eivot",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Popredn&#xED; svetov&#xED; experti na po&#x10D;&#xED;ta&#x10D;ov&#xFA; bezpe&#x10D;nos&#x165; ozn&#xE1;mili nov&#xFA; glob&#xE1;lnu neziskov&#xFA; iniciat&#xED;vu pre Bezpe&#x10D;n&#xE9;&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T16:57:10",
+            "article__url": "http://www.zive.sk/clanok/105205/bezpecne-inteligentne-mesta-moderne-mesta-budu-chranit-bezpecnostni-experti",
+            "date_added": "2016-02-15T16:57:10",
+            "date_favorited": null,
+            "article__title": "Bezpe\u010dn\u00e9 inteligentn\u00e9 mest\u00e1: modern\u00e9 mest\u00e1 bud\u00fa chr\u00e1ni\u0165 bezpe\u010dnostn\u00ed experti",
+            "archive": true
+        },
+        {
+            "article__excerpt": "Vylep&#x161;en&#xE9; slu&#x17E;by zalo&#x17E;en&#xE9; na inform&#xE1;ci&#xE1;ch v re&#xE1;lnom &#x10D;ase z prepojen&#xFD;ch syst&#xE9;mov a zariaden&#xED; poved&#xFA; k zv&#xFD;&#x161;eniu&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-15T15:58:03",
+            "article__url": "http://www.zive.sk/clanok/64201/deutsche-telekom-a-ibm-buduju-inteligentnejsie-mesta",
+            "date_added": "2016-02-15T16:56:24",
+            "date_favorited": null,
+            "article__title": "Deutsche Telekom a IBM buduj\u00fa inteligentnej\u0161ie mest\u00e1",
+            "archive": true
+        },
+        {
+            "article__excerpt": "MasterCard a Cubic Transportation Systems pom&#xE1;haj&#xFA; k efekt&#xED;vnemu rozvoju miest Spolo&#x10D;nos&#x165; MasterCard v spolupr&#xE1;ci s Cubic Transportation Systems predstavila nov&#xFA;&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://www.zive.sk/vyhladavanie?q=smart+cities&s=date",
+            "date_added": "2016-02-14T21:04:15",
+            "date_favorited": null,
+            "article__title": "Najnov\u0161ie spr\u00e1vy o po\u010d\u00edta\u010doch, IT a internete",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Ha valaki kicsit is k&#xF6;veti az informatika h&#xED;reit, akkor m&#xE1;r belefuthatott a Raspberry Pi-be. A h&#xED;rekben t&#xF6;bbsz&#xF6;r is szerepelt &#xE9;s el&#xE9;g jelent&#x151;s&hellip;",
+            "favorite": false,
+            "date_archived": null,
+            "article__url": "http://logout.hu/cikk/rapberry_pi_oc/hardver_szoftver.html",
+            "date_added": "2016-02-14T09:43:48",
+            "date_favorited": null,
+            "article__title": "Raspberry Pi bemutat\u00f3",
+            "archive": false
+        },
+        {
+            "article__excerpt": "Procesory by sme mohli ohodnoti&#x165; pod&#x13E;a nieko&#x13E;k&#xFD;ch z&#xE1;kladn&#xFD;ch parametrov. -Procesory sa rozde&#x13E;uj&#xFA; predov&#x161;etk&#xFD;m pod&#x13E;a r&#xFD;chlosti.&hellip;",
+            "favorite": false,
+            "date_archived": "2016-02-13T15:14:17",
+            "article__url": "http://www.tonko.eu/ite/Procesory",
+            "date_added": "2016-02-13T15:14:17",
+            "date_favorited": null,
+            "article__title": "Informatika",
+            "archive": true
+        }
+    ],
+    "recommendations": []
+}
